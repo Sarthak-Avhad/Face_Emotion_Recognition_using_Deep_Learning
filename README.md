@@ -61,6 +61,22 @@ The project demonstrates the power of **Convolutional Neural Networks (CNNs)** i
 
 ---
 
-## 🚀 How to Run the Project
 
-1. Clone the repository  
+## 📈 Applications
+
+- Human-computer interaction  
+- Emotion-aware AI systems  
+- Surveillance and security  
+- Mental health analysis  
+- Smart assistants  
+
+---
+
+## 🔮 Future Enhancements
+
+- Improve model accuracy with deeper CNN architectures  
+- Use pre-trained models (Transfer Learning)  
+- Deploy model using Streamlit or Flask  
+- Real-time emotion detection using webcam  
+
+---
